@@ -1,7 +1,7 @@
 # FireTraffic
 A client-based web traffic logging tool.
 
-For information on installation and configuration see <a href="//frichetten.com/blog/firetraffic">the project website</a>
+For information on installation and configuration see <a href="http://frichetten.com/blog/firetraffic">the project website</a>
 
 Are you hosting a personal website through a static delivery service such as GitHub Pages? While static webpages have improved security and simplicity, they lack the power that you would normally get if you ran your own web server. One of the drawbacks is that you can't know when someone has visited your website. FireTraffic is the solution!
 
